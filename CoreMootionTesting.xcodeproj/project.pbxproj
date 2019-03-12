@@ -12,6 +12,7 @@
 		2589C4C22236A91D00D0A22F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2589C4C02236A91D00D0A22F /* Main.storyboard */; };
 		2589C4C42236A91F00D0A22F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2589C4C32236A91F00D0A22F /* Assets.xcassets */; };
 		2589C4C72236A91F00D0A22F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2589C4C52236A91F00D0A22F /* LaunchScreen.storyboard */; };
+		2589C4CF2237B4F300D0A22F /* GyroController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2589C4CE2237B4F300D0A22F /* GyroController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2589C4C32236A91F00D0A22F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2589C4C62236A91F00D0A22F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2589C4C82236A91F00D0A22F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2589C4CE2237B4F300D0A22F /* GyroController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GyroController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				2589C4BC2236A91D00D0A22F /* AppDelegate.swift */,
 				2589C4BE2236A91D00D0A22F /* ViewController.swift */,
+				2589C4CE2237B4F300D0A22F /* GyroController.swift */,
 				2589C4C02236A91D00D0A22F /* Main.storyboard */,
 				2589C4C32236A91F00D0A22F /* Assets.xcassets */,
 				2589C4C52236A91F00D0A22F /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				2589C4BF2236A91D00D0A22F /* ViewController.swift in Sources */,
 				2589C4BD2236A91D00D0A22F /* AppDelegate.swift in Sources */,
+				2589C4CF2237B4F300D0A22F /* GyroController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
